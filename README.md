@@ -42,6 +42,11 @@ Learning Python
 ### Object Oriented Programming ### 
 * https://realpython.com/oop-in-python-vs-java/
 
+### Exercises ###
+* [1] https://www.w3resource.com/python-exercises/challenges/1/index.php
+* [2] https://pynative.com/python-exercises-with-solutions/
+* [3] https://www.practicepython.org/
+
 ### Packaging ecosystem ###
 
 ### Virtual Env ###
