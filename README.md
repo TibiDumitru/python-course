@@ -1,9 +1,6 @@
 # python-course
 Learning Python
 
-# python-course
-Python Course
-
 ### Tutorials ###
 
 * 1. https://www.w3schools.com/python/
