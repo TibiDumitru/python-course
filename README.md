@@ -1,6 +1,22 @@
 # python-course
 Learning Python
 
+### Why Python ###
+
+
+### Basic repo structure 
+
+- `examples/` - code snippets, examples and tricks
+- `exercises/` - simple exercises
+- `problems/` - more complex exercises
+
+### Courses
+1. TODO
+2. TODO
+3. TODO
+4. TODO
+5. TODO
+
 ### Tutorials ###
 
 * 1. https://www.w3schools.com/python/
@@ -19,19 +35,26 @@ Learning Python
 * [8] https://www.tensorflow.org/tutorials
 
 ### Why Python ###
+=======
+* 4. https://www.tutorialspoint.com/python/index.htm
+* 5. https://anandology.com/python-practice-book/index.html
+
+### Object Oriented Programming ### 
+* https://realpython.com/oop-in-python-vs-java/
 
 ### Packaging ecosystem ###
 
 ### Virtual Env ###
 
-### Other Documentation ###
-https://pynative.com/python-range-function/
-https://pynative.com/python-basic-exercise-for-beginners/
-
-
 ### Performance tips ###
 List comprehensions is faster because it is optimized for the Python interpreter to spot a predictable
-pattern during looping
+pattern during looping.
 
 ### Python Closures ###
 http://www.trytoprogram.com/python-programming/python-closures/#introduction
+
+### Other Resources ###
+https://pynative.com/python-range-function/
+https://pynative.com/python-basic-exercise-for-beginners/
+http://www.trytoprogram.com/python-programming/python-closures/#introduction
+https://towardsdatascience.com/8-advanced-python-tricks-used-by-seasoned-programmers-757804975802
